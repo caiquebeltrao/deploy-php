@@ -4,7 +4,7 @@ palmeiras nao tem mundial
     <div style="background-color: blue;padding: 30px; text-align:center;width: 50%;">
         essa é a coluna da cor azul
     </div>
-</div>
-<div style="background-color: yellow;padding: 30px; text-align:center;width: 50%">
-    essa é a coluna da cor amarela
+    <div style="background-color: yellow;padding: 30px; text-align:center;width: 50%">
+        essa é a coluna da cor amarela
+    </div>
 </div>
